@@ -1,4 +1,4 @@
-name: Test Package against supported Python Versions
+name: Unit-tests
 
 on: workflow_dispatch
 
